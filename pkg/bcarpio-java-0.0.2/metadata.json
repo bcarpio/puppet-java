@@ -1,0 +1,28 @@
+{
+  "license": "UNKNOWN",
+  "source": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "project_page": "UNKNOWN",
+  "description": "UNKNOWN",
+  "summary": "Install java into any configured directory. Read the README.markdown for more information",
+  "author": "Brian Carpio",
+  "version": "0.0.2",
+  "name": "bcarpio-java",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "manifests/params.pp": "dd7ceb0a7feafb15ba74ddf82676d9b9",
+    "tests/init.pp": "01ed568a64f272ad728054341a562406",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "manifests/init.pp": "2a1619c9281bfe3110d6d67a615f5df6",
+    "Modulefile": "1d80623969f1c6631b19db7148c56c2a",
+    "README": "d41d8cd98f00b204e9800998ecf8427e",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "files/jdk1.7.0_03.tar.gz": "969927251b558ffbc09ede1e89200d40",
+    "README.markdown": "e0ce759f1ea2550da1266bba0b047466"
+  }
+}

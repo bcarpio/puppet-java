@@ -1,0 +1,4 @@
+name    'bcarpio-java'
+version '0.0.1'
+author 'bcarpio'
+summary 'Install java into any configured directory. Read the README.markdown for more information'

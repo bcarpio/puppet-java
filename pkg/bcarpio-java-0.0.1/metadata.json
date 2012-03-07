@@ -1,0 +1,28 @@
+{
+  "license": "UNKNOWN",
+  "source": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "project_page": "UNKNOWN",
+  "description": "UNKNOWN",
+  "summary": "Install java into any configured directory. Read the README.markdown for more information",
+  "author": "bcarpio",
+  "version": "0.0.1",
+  "name": "bcarpio-java",
+  "checksums": {
+    "manifests/init.pp": "2a1619c9281bfe3110d6d67a615f5df6",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "0f0c80f3d7dce80b7d7a088f7eaca879",
+    "README.markdown": "e0ce759f1ea2550da1266bba0b047466",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "tests/init.pp": "01ed568a64f272ad728054341a562406",
+    "manifests/params.pp": "dd7ceb0a7feafb15ba74ddf82676d9b9",
+    "README": "d41d8cd98f00b204e9800998ecf8427e",
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "files/jdk1.7.0_03.tar.gz": "969927251b558ffbc09ede1e89200d40"
+  }
+}
