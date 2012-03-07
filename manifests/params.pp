@@ -6,6 +6,6 @@ class java::params {
             default	=> "1.7.0_03",
         }
         $java_base = $::hostname ? {
-            default     => "/opt/java/",
+            default     => "/opt/java",
         }
 }
