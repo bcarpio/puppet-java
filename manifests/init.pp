@@ -3,7 +3,9 @@
 class java {
 
 	require java::params
-	
+
+        Exec { path => "/bin" }
+
         file {"$java::params::java_base":
 		ensure => "directory",
 		owner => "root",
